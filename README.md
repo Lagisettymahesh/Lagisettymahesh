@@ -1,38 +1,41 @@
 <h1 align="center">Hi, I'm Mahesh 👋</h1>
-<p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=22&pause=1000&color=2F81F7&center=true&vCenter=true&width=500&lines=Student+%7C+Python+Learner;Building+projects+and+learning+every+day;Open+to+learning+and+collaborating" alt="Typing SVG" />
-</p>
+
+<h3 align="center">Student · Python Developer · AI/ML Learner</h3>
+
 ---
-👨‍🎓 About Me
-🎓 I'm a student passionate about programming and problem solving
-🐍 Currently learning and building with Python
-🌱 Exploring: Data Structures & Algorithms, Git/GitHub, and small automation projects
-🚀 Goal: become a skilled software developer
-💬 Ask me about: Python, learning to code, student projects
+
+## 👨‍🎓 About Me
+
+- 🎓 Student passionate about programming and problem solving
+- 🐍 Building projects with **Python**
+- 🤖 Exploring **Machine Learning**, **Neural Networks** and **Deep Learning**
+- 🌱 Also learning: Data Structures & Algorithms, Git and GitHub
+- 🚀 Goal: become a skilled software and AI developer
+
 ---
-🛠️ Skills
+
+## 🛠️ Skills
+
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-5C3EE8?style=for-the-badge&logo=tensorflow&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visualstudiocode&logoColor=white)
+
 ---
-📌 Projects
-Project	Description
-🔹 Project 1	Short one-line description of what it does
-🔹 Project 2	Short one-line description of what it does
-🔹 Project 3	Short one-line description of what it does
-> Replace these with links to your own repositories, for example `[Project Name](https://github.com/Lagisettymahesh/repo-name)`.
+
+## 📌 Projects
+
+- 🧠 [**neural-network-and-deep-learning**](https://github.com/Lagisettymahesh/neural-network-and-deep-learning): neural network and deep learning work in Python
+- 💳 [**credit-card-default-prediction**](https://github.com/Lagisettymahesh/credit-card-default-prediction): machine learning model to predict credit card defaults
+- 🤖 [**AI**](https://github.com/Lagisettymahesh/AI): artificial intelligence practice and experiments
+
 ---
-📊 GitHub Stats
-<p align="center">
-  <img height="160" src="https://github-readme-stats.vercel.app/api?username=Lagisettymahesh&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Lagisettymahesh&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-</p>
+
+## 📫 Connect With Me
+
+[![GitHub](https://img.shields.io/badge/GitHub-Lagisettymahesh-181717?style=for-the-badge&logo=github)](https://github.com/Lagisettymahesh)
+
 ---
-📫 Connect With Me
-![GitHub](https://img.shields.io/badge/GitHub-Lagisettymahesh-181717?style=for-the-badge&logo=github)
-<!-- Add your links below by removing the comment markers
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/your-id)
-[![Email](https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your-email@example.com)
----
+
 <p align="center">⭐ Thanks for visiting my profile! ⭐</p>
